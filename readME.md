@@ -4,7 +4,7 @@ Hi 👋 My name is Charlie Lu
 Full-stack Developer
 --------------------------
 
-I like building things! My go-to tech stack: - MongoDB - Next.JS - SCSS - Apollo GraphQL (Server) - React Query
+I like building things!
 
 * ✉️  You can contact me at [theCHARlister@gmail.com](mailto:theCHARlister@gmail.com)
 * 🧠  I'm learning how to build products that people use and enjoy
