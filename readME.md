@@ -1,13 +1,12 @@
 Hi 👋 My name is Charlie Lu
 ===========================
 
-Full-stack React Developer
+Full-stack Developer
 --------------------------
 
 I like building things! My go-to tech stack: - MongoDB - Next.JS - SCSS - Apollo GraphQL (Server) - React Query
 
 * ✉️  You can contact me at [theCHARlister@gmail.com](mailto:theCHARlister@gmail.com)
-* 🚀  I'm currently working on [beemy - a dedicated blog builder right now, to become an all-in-one content management system for writers and teams!](http:///www.writebeemy.com/)
 * 🧠  I'm learning how to build products that people use and enjoy
 
 ### Skills
